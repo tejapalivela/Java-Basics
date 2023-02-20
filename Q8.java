@@ -1,6 +1,6 @@
 
-
 import java.util.Scanner;
+
 public class Q8
 {
     public static void main(String[] args)
@@ -15,7 +15,7 @@ public class Q8
 
             int result = a/b;
             System.out.println("entered number divided by 30 gives: " + result);
-            System.out.println("");
+            System.out.println();
         }
 
         catch (ArithmeticException e)
